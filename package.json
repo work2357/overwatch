@@ -1,7 +1,6 @@
 {
   "name": "overwatch",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "parcel index.html",
@@ -11,6 +10,19 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "bundler": "^0.8.0",
+    "parcel": "^2.6.0",
     "parcel-bundler": "^1.12.5"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/work2357/overwatch.git"
+  },
+  "bugs": {
+    "url": "https://github.com/work2357/overwatch/issues"
+  },
+  "homepage": "https://github.com/work2357/overwatch#readme",
+  "description": ""
 }
